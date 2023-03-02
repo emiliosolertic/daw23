@@ -1,3 +1,6 @@
 HOLA MUNDO
 Esto es un fichero de prueba para subir al repositorio
 ----estado inicial----
+Esto lo he añadido en una segunda edición
+----
+
